@@ -1,0 +1,17 @@
+{
+    "nombre": "MAYRA ESMERALDA",
+    "apellido": "BENAVIDES RIVERA",
+    "email": "maesberi@gmail.com",
+    "token": "db17e86a-4e00-4940-b236-ba72332a237e",
+    "fecha_utc": "2026-11-15T15:30:11.364753+00:00",
+    "sistema_operativo": "Linux",
+    "version_so": "6.8.0-1070-azure",
+    "arquitectura": "x86_64",
+    "procesador": "",
+    "version_python": "3.12.16",
+    "hostname_contenedor": "dfc553b39a49",
+    "plataforma": "OpenFaaS",
+    "funcion": "registro-serverless",
+    "estado": "Ejecucion exitosa",
+    "firma_sha256": "85bcd5039acaf09197df8807c1ac3e675093661d6e710c7eff4ce565123a1acf"
+}
