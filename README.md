@@ -1,7 +1,6 @@
 # Laboratorio: Computación Serverless con OpenFaaS y Python
 
 * **Asignatura:** Introducción al Cómputo en la Nube
-* **Carrera:** TSU en Desarrollo de Software en Código Abierto
 * **Unidad:** Unidad 3 – Competencias Fundamentales en la Nube
 * **Estudiante:** Mayra Esmeralda Benavides Rivera
 
